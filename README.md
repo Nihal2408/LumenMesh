@@ -53,6 +53,24 @@ Modeled parametrically in **Autodesk Fusion 360**:
 
 ---
 
+
+
+## 📋 Bill of Materials (BOM)
+
+| Item # | Component | Description / Specification | Qty | Function / Notes |
+| :---: | :--- | :--- | :---: | :--- |
+| **1** | **LED Light Source** | 12V LED COB / Rigid Strip / Module (Warm White or RGB) | 1 | Primary light emitter; mounted to upper diffuser/core |
+| **2** | **DC Power Jack** | 5.5mm x 2.1mm Female Panel-Mount Barrel Jack | 1 | Fits into the side cutout on the cylindrical base |
+| **3** | **Power Adapter** | 12V 2A DC Power Supply (Wall Adapter, 5.5x2.1mm plug) | 1 | Supplies main power (~24W max headroom) |
+| **4** | **Power Switch / Control** *(Optional)* | In-line rocker switch, rotary potentiometer, or PWM dimmer | 1 | On/off switching or brightness control |
+| **5** | **Internal Hookup Wire** | 22–24 AWG stranded wire (Red & Black) | ~0.5 m | Routes power from DC jack to LED core |
+| **6** | **Heat Shrink / Insulation** | 2mm – 4mm polyolefin heat shrink tubing | 2–3 pcs | Insulates solder terminals on the DC jack |
+
+
+---
+
+
+
 ## 🛠️ Assembly Instructions
 
 1. **Base Assembly:**

@@ -1,3 +1,7 @@
+
+This project is licensed under the **MIT License** — feel free to modify, print, and adapt it for your own setups!<img width="1671" height="988" alt="Screenshot 2026-11-07 at 11 44 23 AM" src="https://github.com/user-attachments/assets/4dc0f715-7797-46e2-9ceb-576114d7dd75" />
+<img width="1671" height="988" alt="Screenshot 2026-11-07 at 11 44 06 AM" src="https://github.com/user-attachments/assets/98b48549-f4c0-4428-b3c7-2e3ae21c775b" />
+
 # LumenMesh · 3D-Printed Ambient Pixel Lamp
 
 A modern, desktop accent lamp featuring parametric surface texturing, custom internal electronics integration, and a sleek two-piece snap-fit assembly. Designed from the ground up in Autodesk Fusion 360 specifically for FDM additive manufacturing.
@@ -83,6 +87,3 @@ Modeled parametrically in **Autodesk Fusion 360**:
 ---
 
 ## 📜 License
-
-This project is licensed under the **MIT License** — feel free to modify, print, and adapt it for your own setups!<img width="1671" height="988" alt="Screenshot 2026-11-07 at 11 44 23 AM" src="https://github.com/user-attachments/assets/4dc0f715-7797-46e2-9ceb-576114d7dd75" />
-<img width="1671" height="988" alt="Screenshot 2026-11-07 at 11 44 06 AM" src="https://github.com/user-attachments/assets/98b48549-f4c0-4428-b3c7-2e3ae21c775b" />
